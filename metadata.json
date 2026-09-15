@@ -1,0 +1,6 @@
+{
+  "name": "Foundation Course",
+  "description": "Learn AI as a practical tool to build websites, software, and applications, and discover how local businesses can use digital tools and personal branding to grow.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
